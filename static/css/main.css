@@ -1211,7 +1211,7 @@ i[name=checkbox-empty]::before, button.icon[name=checkbox-empty]::before {
   top: 0;
   left: 15px;
   position: absolute;
-  background-image: url("../img//content/logo-line.png");
+  background-image: url("../img/content/logo-line.png");
   background-size: contain;
   background-position: center;
 }
